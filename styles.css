@@ -1,13 +1,14 @@
 
 /* Your CSS Code here. */
-holder{
+
+.holder{
 	display: flex;
 	flex-direction: row;
 	flex-wrap: wrap;
 align-items: center;
 	justify-content: center;
 }
-div{
+.item{
 	padding: 30px;
 	margin:4px;
 	background-color: yellow;
